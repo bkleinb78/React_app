@@ -44,9 +44,15 @@ const Background = () => {
             <div className="flex flex-col justify-center items-center">
               <h1 className="text-3xl sm:text-5xl text-white text-gradient py-1">
                 The Kleinbergs Wedding Stream!
+              </h1>
+              <h1 className="text-3xl sm:text-5xl text-white text-gradient py-1">
                 When: April 28th 2023
-                Start time: 6:30pm cons
-                Register below to catch the special stream of this amazing moment!
+              </h1>
+              <h1 className="text-3xl sm:text-5xl text-white text-gradient py-1">
+                Start Time: 630pm CST
+              </h1>
+              <h1 className="text-3xl sm:text-5xl text-white text-gradient py-1">
+                How: Register below to catch this exciting moment to watch Live!
               </h1>
               <img
                 src={frontpg}
